@@ -1,0 +1,11 @@
+__init__
+.coverage
+dist
+*.egg-info
+__pycache__
+.ipynb_checkpoints
+*.log
+.env
+.DS_Store
+.vscode
+venv
